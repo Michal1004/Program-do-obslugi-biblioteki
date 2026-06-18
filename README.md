@@ -1,5 +1,5 @@
 # Program-do-obslugi-biblioteki
-Kompleksowy program do obsługi biblioteki z poziomu konsoli, zrealizowany w języku C++
+Kompleksowy program do obsługi biblioteki z poziomu konsoli, zrealizowany w języku C++.
 Program został wykonany w trzyosobowej grupie: Michał Bagiński, Maks Szwejkowski, Jakub Klyszczyński
 
 # Program daje możliwość:
